@@ -1,4 +1,4 @@
-<p align="right">
+<p align="right" position="absolute">
  <img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" width="200px">
 </p>
 
