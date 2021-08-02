@@ -10,7 +10,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Alef.Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefmastertutor@gmail.com)](mailto:alefmastertutor@gmail.com)
 
-[![Instagram Dino Coder Badge](https://img.shields.io/badge/-dino.coder-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alef.all)]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alef-facode.Alef-facode)
 
