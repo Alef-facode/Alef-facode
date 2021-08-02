@@ -2,7 +2,7 @@
  <!-- <img width="100%" src="https://github.com/Olafi-MooN.png" /> -->
 </p>
 
-### Hi I'm Alef <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px">
+### Hi I'm Alef <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw0Kf6s_DnCTKyPwjz20TTcT&ust=1628001836823000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjbocrJkvICFQAAAAAdAAAAABAD" width="30px">
 
 💻 Fullstack Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Minas Gerais 🌎 Brasil
 
