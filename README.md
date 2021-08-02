@@ -1,8 +1,10 @@
 <p align="center">
- <!-- <img width="100%" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" /> -->
+ <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="200px">
 </p>
 
-### Hi I'm Alef <img src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="30px">
+
+
+### Hi I'm Alef 🧔
 
 💻 Fullstack Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Minas Gerais 🌎 Brasil
 
