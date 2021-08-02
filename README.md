@@ -6,10 +6,12 @@
 
 💻 Fullstack Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Minas Gerais 🌎 Brasil
 
+[![Linkedin Badge](https://img.shields.io/badge/-Alef-facode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card/)](https://www.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Olafi-Moon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card)
-[![Gmail Badge](https://img.shields.io/badge/-lari.santosazevedo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:alefmastertutor@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Alef-Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:alefmastertutor@gmail.com)
 [![Instagram Dino Coder Badge](https://img.shields.io/badge/-dino.coder-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alef.all)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Alef-facode.Alef-facode)
 
 ---
 
