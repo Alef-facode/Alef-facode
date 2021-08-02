@@ -37,7 +37,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alef-facode&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right" position="absolute">
- <img src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" width="100%">
+<!--  <img src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" width="100%"> -->
 </p>
 
 </samp>
