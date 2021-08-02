@@ -38,18 +38,14 @@
 
 <br/>
 
-Learning is one of the noblest arts in the world..
-
-<br/>
-
-
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <br/>
 <br/>
 
-**My Contributions ⚡**
-<br/>
+**Phrase**
+"Learning is one of the noblest arts in the world..."
 
+<br/>
 <br/>
 </samp>
