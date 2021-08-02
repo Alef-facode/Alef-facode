@@ -35,7 +35,7 @@
 
 <br/>
 
-**Phrase: **
+**Phrase:**
 "Learning is one of the noblest arts in the world..."
 
 <br/>
