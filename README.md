@@ -8,8 +8,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alef.facode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card/)](https://www.linkedin.com/in/alef-santos-soares-a28715193?trk=people-guest_people_search-card/)
 
-[![Gmail Badge](https://img.shields.io/badge/-Alef.Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:alefmastertutor@gmail.com)
-[![Instagram Dino Coder Badge](https://img.shields.io/badge/-dino.coder-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alef.all)
+[![Gmail Badge](https://img.shields.io/badge/-Alef.Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alefmastertutor@gmail.com)](mailto:alefmastertutor@gmail.com)
+
+[![Instagram Dino Coder Badge](https://img.shields.io/badge/-dino.coder-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alef.all)]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alef-facode.Alef-facode)
 
@@ -37,7 +38,6 @@
 - [](https://www.linkedin.com/pulse/criando-um-readmemd-sensacional-para-seu-perfil-santos-de-azevedo/)
 
 <br/>
-
 
 Learning is one of the noblest arts in the world..
 
