@@ -1,5 +1,5 @@
 <p align="right" position="absolute">
- <img src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" width="200px">
+ <img src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" width="200px">
 </p>
 
 
@@ -33,8 +33,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<br/>
-<br/>
 <br/>
 
 **Phrase: **
