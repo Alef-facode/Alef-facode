@@ -1,6 +1,3 @@
-<p align="right" position="absolute">
- <img src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" width="100%">
-</p>
 
 
 
@@ -40,4 +37,9 @@
 
 <br/>
 <br/>
+
+<p align="right" position="absolute">
+ <img src="https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif" width="100%">
+</p>
+
 </samp>
